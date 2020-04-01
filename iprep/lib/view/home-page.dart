@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:studyapp/View/progress_report.dart';
-import 'package:studyapp/View/qanda.dart';
-import 'package:studyapp/View/login.dart';
+import 'package:iprep/View/progress_report.dart';
+import 'package:iprep/View/qanda.dart';
+import 'package:iprep/View/login.dart';
 
 class HomePage extends StatefulWidget {
   @override 
