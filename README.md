@@ -8,8 +8,7 @@ Test preparation mobile application using flutter
 │   ├── lib
 │   │   ├── View
 │   |   ├── Model
+|   |   |  ├── Api
 │   |   ├── Controller
-|   |   ├── Token
-|   |   ├── Api 
 |   |   ├── Widget
 ```
